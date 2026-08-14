@@ -23,7 +23,7 @@ python-journey/
 │   │   └── strings.py          ✔
 │   │
 │   ├── 02-control-flow/
-│   │   ├── if_else.py
+│   │   ├── if_else.py          ✔
 │   │   ├── nested_if.py
 │   │   ├── match_case.py
 │   │   ├── for_loops.py
