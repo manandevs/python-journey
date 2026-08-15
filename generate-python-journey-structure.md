@@ -24,12 +24,12 @@ python-journey/
 │   │
 │   ├── 02-control-flow/
 │   │   ├── if_else.py          ✔
-│   │   ├── nested_if.py
-│   │   ├── match_case.py
-│   │   ├── for_loops.py
-│   │   ├── while_loops.py
-│   │   ├── break_continue.py
-│   │   └── pass.py
+│   │   ├── nested_if.py        ✔
+│   │   ├── match_case.py       ✔
+│   │   ├── for_loops.py        ✔
+│   │   ├── while_loops.py      ✔
+│   │   ├── break_continue.py   ✔
+│   │   └── pass.py             ✔
 │   │
 │   ├── 03-functions/
 │   │   ├── functions.py
