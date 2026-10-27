@@ -14,27 +14,27 @@ python-journey/
 ├── exercises/
 │   │
 │   ├── 01-basics/
-│   │   ├── hello_world.py      ✔
-│   │   ├── variables.py        ✔
-│   │   ├── data_types.py       ✔
-│   │   ├── type_casting.py     ✔
-│   │   ├── user_input.py       ✔
-│   │   ├── operators.py        ✔
-│   │   └── strings.py          ✔
+│   │   ├── hello_world.py             ✔
+│   │   ├── variables.py               ✔
+│   │   ├── data_types.py              ✔
+│   │   ├── type_casting.py            ✔
+│   │   ├── user_input.py              ✔
+│   │   ├── operators.py               ✔
+│   │   └── strings.py                 ✔
 │   │
 │   ├── 02-control-flow/
-│   │   ├── if_else.py          ✔
-│   │   ├── nested_if.py        ✔
-│   │   ├── match_case.py       ✔
-│   │   ├── for_loops.py        ✔
-│   │   ├── while_loops.py      ✔
-│   │   ├── break_continue.py   ✔
-│   │   └── pass.py             ✔
+│   │   ├── if_else.py                 ✔
+│   │   ├── nested_if.py               ✔
+│   │   ├── match_case.py              ✔
+│   │   ├── for_loops.py               ✔
+│   │   ├── while_loops.py             ✔
+│   │   ├── break_continue.py          ✔
+│   │   └── pass.py                    ✔
 │   │
 │   ├── 03-functions/
-│   │   ├── functions.py
-│   │   ├── arguments.py
-│   │   ├── lambda.py
+│   │   ├── functions.py               ✔
+│   │   ├── arguments.py               ✔
+│   │   ├── lambda.py                  ✔
 │   │   ├── recursion.py
 │   │   ├── scope.py
 │   │   └── decorators.py
