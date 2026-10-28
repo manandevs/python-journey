@@ -8,24 +8,31 @@ def countdown(n):
         print(n)
         countdown(n - 1)
 
+
 # ACCEPT a number
-countdown_number = int(input("Enter a number: "))
+countdown_number = int(input("Enter a number for countdown: "))
 
-countdown_results = countdown(countdown_number)
+# CALL the function to display the countdown
+countdown(countdown_number)
 
-# DISPLAY the number
-print(countdown_results)
 
-# CALL the function again with the number decreased by 1
-countdown_results_by_decreased_Of_one = countdown(countdown_number-1)
+# Exercise 2: Factorial
 
-# STOP when the number reaches 0
+# CREATE a recursive function named 'factorial'
+def factorial(n):
+    if n < 0:
+        raise ValueError("Factorial is not defined for negative integers.")
+    elif n == 0:
+        return 1
+    else:
+        return n * factorial(n - 1)
 
-# // Exercise 2: Factorial
-print(countdown_results_by_decreased_Of_one)
 
-# CREATE a recursive function
+# ACCEPT a number
+factorial_number = int(input("Enter a number for factorial: "))
 
-# CALCULATE the factorial of a number
+# CALCULATE the factorial
+factorial_result = factorial(factorial_number)
 
 # DISPLAY the result
+print(f"The factorial of {factorial_number} is {factorial_result}")
