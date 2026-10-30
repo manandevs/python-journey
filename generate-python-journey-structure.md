@@ -35,7 +35,7 @@ python-journey/
 │   │   ├── functions.py               ✔
 │   │   ├── arguments.py               ✔
 │   │   ├── lambda.py                  ✔
-│   │   ├── recursion.py
+│   │   ├── recursion.py               ✔
 │   │   ├── scope.py
 │   │   └── decorators.py
 │   │
