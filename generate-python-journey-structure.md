@@ -36,8 +36,8 @@ python-journey/
 │   │   ├── arguments.py               ✔
 │   │   ├── lambda.py                  ✔
 │   │   ├── recursion.py               ✔
-│   │   ├── scope.py
-│   │   └── decorators.py
+│   │   ├── scope.py                   ✔
+│   │   └── decorators.py              ✔
 │   │
 │   ├── 04-data-structures/
 │   │   ├── lists.py
